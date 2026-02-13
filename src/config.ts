@@ -5,10 +5,10 @@
 
 export const config = {
   /** Your name */
-  senderName: "Granthana",
+  senderName: "Shranya",
 
   /** Your Valentine's name */
-  recipientName: "Ivirah",
+  recipientName: "Vedika",
 
   /** Your personal message (used in Mixtape lyrics, Sealed Letter, etc.) */
   message:
